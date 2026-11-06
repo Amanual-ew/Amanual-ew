@@ -102,6 +102,15 @@ My final-year Computer Science project: a web-based food ordering and delivery m
 <img width="90%" src="https://streak-stats.demolab.com?user=Amanual-ew&theme=tokyonight&hide_border=true" />
 
 </div>
+## 📈 My Contribution Activity
+
+<div align="center">
+
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=Amanual-ew&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanual-ew&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Amanual's GitHub Activity Graph"/>
+</a>
+
+</div>
 
 ---
 
