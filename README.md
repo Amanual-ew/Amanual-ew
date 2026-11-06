@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Amanual Ewunetu!
 
-<!-- Animated header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00DBDE&height=220&section=header&text=Amanual%20Ewunetu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=58&animation=fadeIn" width="100%" />
@@ -58,7 +57,7 @@ I enjoy building modern, responsive, and user-friendly web applications that sol
 
 ## 💡 Featured Projects
 
-### 🚗 1. Sheger Wheels – Peer-to-Peer Car Rental Platform
+### 🚗 Sheger Wheels – Peer-to-Peer Car Rental Platform
 
 A web-based platform connecting car owners with people looking to rent vehicles in Addis Ababa.
 
@@ -70,7 +69,7 @@ A web-based platform connecting car owners with people looking to rent vehicles 
 
 **Technologies:** Next.js, TypeScript, Prisma, PostgreSQL.
 
-### 🍔 2. Addis Eats – Food Ordering Web Application
+### 🍔 Addis Eats – Food Ordering Web Application
 
 A responsive food-ordering application designed to make online food ordering easier.
 
@@ -83,11 +82,35 @@ A responsive food-ordering application designed to make online food ordering eas
 
 **Technologies:** React.js, Next.js.
 
-### 🍕 3. Debre Tabor City Food Delivery System
+### 🍕 Debre Tabor City Food Delivery System
 
 My final-year Computer Science project: a web-based food ordering and delivery management system developed for Debre Tabor City.
 
 **Technologies:** PHP, MySQL.
+
+---
+
+## 📈 My GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanual-ew&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🐍 My GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanual-ew/Amanual-ew/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanual-ew/Amanual-ew/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Amanual-ew/Amanual-ew/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
 
 ---
 
@@ -100,15 +123,6 @@ My final-year Computer Science project: a web-based food ordering and delivery m
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanual-ew&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img width="90%" src="https://streak-stats.demolab.com?user=Amanual-ew&theme=tokyonight&hide_border=true" />
-
-</div>
-## 📈 My Contribution Activity
-
-<div align="center">
-
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=Amanual-ew&theme=tokyo-night">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanual-ew&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Amanual's GitHub Activity Graph"/>
-</a>
 
 </div>
 
@@ -126,17 +140,19 @@ My final-year Computer Science project: a web-based food ordering and delivery m
 
 ## 🤝 Let's Connect!
 
-I'm always interested in connecting with developers and sharing knowledge.
+I'm always interested in connecting with developers, collaborating on projects, and sharing knowledge.
 
-<p align="center">
+<div align="center">
+
 <a href="mailto:amanualewunetu15@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/Amanual-ew">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!-- Add your LinkedIn profile URL here -->
-</p>
+
+</div>
 
 ---
 
@@ -144,7 +160,7 @@ I'm always interested in connecting with developers and sharing knowledge.
 
 ### 💜 Thanks for visiting my profile!
 
-**Building today. Innovating tomorrow. 🚀**
+**Building Today. Innovating Tomorrow. 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00DBDE&height=120&section=footer" width="100%" />
 
