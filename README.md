@@ -93,9 +93,11 @@ My final-year Computer Science project: a web-based food ordering and delivery m
 ## 📈 My GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanual-ew&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Amanual-ew&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </div>
 
 ---
